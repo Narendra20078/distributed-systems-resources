@@ -4,6 +4,18 @@ A curated collection of learning resources for Distributed Systems, organized by
 
 ---
 
+## Special Thanks
+
+### Prof. Arobinda Gupta — IIT Kharagpur
+A heartfelt thank you to **[Prof. Arobinda Gupta](http://www.facweb.iitkgp.ac.in/~agupta/)**, Professor in the Department of Computer Science & Engineering, IIT Kharagpur (PhD, Iowa), whose excellent course structure and slides on Distributed Systems laid the foundation for this entire resource collection. His work in Systems and Networking continues to inspire students deeply.
+
+📚 Course Material: [cse.iitkgp.ac.in/~agupta/distsys](https://cse.iitkgp.ac.in/~agupta/distsys/index.html)
+
+---
+
+### Saikat Samanta — Curator & Researcher
+A special shoutout to **Saikat Samanta**, whose remarkable time investment in hunting down each and every video, and study material made this repository possible. The depth and quality of this resource collection is a direct result of his dedication.
+
 ## 📺 YouTube Channels (General)
 
 | Channel | Focus |
